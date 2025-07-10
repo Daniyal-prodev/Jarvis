@@ -1,0 +1,59 @@
+
+==========================
+✅ BASIC CONTROL COMMANDS
+==========================
+• pause jarvis        - Pauses all voice input (except resume)
+• resume jarvis       - Resumes voice assistant
+• exit / quit / shutdown  - Closes the assistant
+• notify me           - Shows a system notification
+
+=============================
+🌐 WEB & INTERNET COMMANDS
+=============================
+• open google         - Opens google.com
+• open youtube        - Opens youtube.com
+• open facebook       - Opens facebook.com
+• open instagram      - Opens instagram.com
+• info <topic>        - Summarizes a topic from Wikipedia
+• calculate <expr>    - Calculates an expression (e.g. 5+6)
+• weather in <city>   - Gets weather info using wttr.in
+
+=====================
+🤖 AI CHAT MODE
+=====================
+• (say anything else) - Gets smart reply from GPT
+• who is elon musk?   - Example of general query
+
+===========================
+🧠 MEMORY & RECALL COMMANDS
+===========================
+• remember X as Y     - Stores memory (e.g. remember birthday as 5th June)
+• recall X            - Retrieves stored memory
+
+====================
+🗓️ SCHEDULING COMMANDS
+====================
+• schedule <task> at <HH:MM>  - Adds a daily reminder
+• show schedule       - Lists all scheduled tasks
+
+===============================
+💻 SYSTEM & APP CONTROL
+===============================
+• open app notepad    - Launches a system app
+• volume up           - Increases volume
+• volume down         - Decreases volume
+• mute                - Mutes the system volume
+
+===============================
+🗂️ FILE & FOLDER COMMANDS
+===============================
+• open file <name>    - Searches E:/ for file and opens it
+• open folder <name>  - Searches E:/ for folder and opens it
+
+==========================
+🖱️ SCREEN / MOUSE COMMANDS
+==========================
+• scroll down         - Scrolls window down
+• scroll up           - Scrolls window up
+• click / open it     - Simulates a mouse click
+• close this tab      - Closes current browser tab

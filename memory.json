@@ -1,0 +1,23 @@
+{
+    "editor.cursorStyle": "line",
+    "creator birthday": "Sir your birthday is on 2nd march 2012",
+    "creator name": "Sir your name is Mr.daniyal arib",
+    "creator age": "Sir your age is 14 years",
+    "creator father name": "Your father name is sir kb or khuda baksh",
+    "creator mother name": "Your mother name is HIDDEN",
+    "creator school name": "Your school name is The Educators",
+    "creator brother name": "Your brother name is Danish",
+    "creator birthplace": "Your birth place is Khanewal",
+    "creator great invention": "oh sir i know that i am your greatest invention",
+    "creator address": "Sirajia town near talha pharmacy ,Khanewal,pakistan",
+    "Jarvis birthdate": "I was born on Friday 20 june 2025 at 12 48 am ",
+    "creator birthdate": "2nd march 2012",
+    "name": "{name}",
+    "age": "{age}",
+    "father name": "{father_name}",
+    "school name": "{school_name}",
+    "brother name": "{brother_name}",
+    "birthplace": "{birthplace}",
+    "address": "{address}",
+    "birthdate": "{birthdate}"
+}
