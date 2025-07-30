@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"
+API_KEY = "YOUR API PLEASE I HAVE USEDE OPENROUTER API YOU CAN EITHER CHANGE IT OR REMAIN IT SAME"
 MODEL = "gpt-4o-mini"
 
 def chat_response(prompt):
